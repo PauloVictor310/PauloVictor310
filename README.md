@@ -67,3 +67,7 @@
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
     </a>
 </div>
+
+##
+
+![Snake animation](https://github.com/PauloVictor310/blob/output/github-contribution-grid-snake.svg)
