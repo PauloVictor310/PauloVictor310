@@ -51,8 +51,8 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank">
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     </a>
-    <a href="https://www.python.org" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <a href="https://nodejs.org/" target="_blank">
+      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="python" width="40" height="40"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank">
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
@@ -62,9 +62,6 @@
     </a>
     <a href="https://firebase.google.com/" target="_blank">
       <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
     </a>
 </div>
 
